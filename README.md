@@ -1,2 +1,5 @@
-<img src="https://github.com/HIRU1920/Password-Strength-Checker/blob/main/Images/1.png" alt="Password-Strength-Checker" width="6800" height="500">
-<img src="https://github.com/HIRU1920/Password-Strength-Checker/blob/main/Images/2.png" alt="Password-Strength-Checker" width="6900" height="500">
+<div class="image-container">
+  <img src="https://github.com/HIRU1920/Password-Strength-Checker/blob/main/Images/1.png" alt="Logo" width="2450" height="500">
+  <img src="https://github.com/HIRU1920/Password-Strength-Checker/blob/main/Images/2.png" alt="Logo" width="2450" height="500">
+
+</div>
